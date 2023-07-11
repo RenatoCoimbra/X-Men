@@ -64,6 +64,10 @@ body::before{
   gap: 9px;
 }
 
+.lista-personagem .personagem {
+  border-bottom: 4px solid #47f4ff;
+}
+
 .selecao-personagens .personagens img{
   width: 80px;
 }
